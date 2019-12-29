@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
+    tools:context=".round4"
     android:background="#FCC913"
     android:orientation="vertical">
 
@@ -38,8 +38,8 @@
             android:layout_height="150dp" />
 
         <ImageView
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
             android:src="@drawable/vs"
             android:layout_gravity="bottom"
             />

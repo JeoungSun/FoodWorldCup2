@@ -39,8 +39,8 @@
             android:src="@drawable/food1" />
 
         <ImageView
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
             android:src="@drawable/vs"
             android:layout_gravity="bottom"
             />

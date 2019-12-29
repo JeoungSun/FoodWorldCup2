@@ -18,6 +18,8 @@
         </activity>
         <activity android:name=".round8"></activity>
         <activity android:name=".round4"></activity>
+        <activity android:name=".round2"></activity>
+        <activity android:name=".finalround"></activity>
     </application>
 
 </manifest>
